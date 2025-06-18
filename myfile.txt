@@ -1,2 +1,3 @@
 hello world;
 add new line1 from issue1;
+new line from issue3;
